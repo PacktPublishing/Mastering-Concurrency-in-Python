@@ -23,7 +23,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter01.
 
 The code will look like the following:
 ```
@@ -35,7 +35,7 @@ async def main(url):
 **Following is what you need for this book:**
 If you're a developer familiar who's and you Python who want to learn to build high-performance applications that scale by leveraging single-core, multi-core, or distributed concurrency, then this book is for you.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-19).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
