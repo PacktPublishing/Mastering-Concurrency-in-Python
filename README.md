@@ -63,6 +63,5 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Quan's passion for Python programming has led him to be heavily involved in the Python community. He started as a primary contributor for the book Python for Scientists and Engineers and various open source projects on GitHub. Quan is also a writer for the Python Software Foundation and an occasional content contributor for DataScience.com (part of Oracle).
 
-## Other books by the authors
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
