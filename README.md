@@ -1,6 +1,6 @@
 # Mastering Concurrency in Python
 
-<a href="https://www.packtpub.com/application-development/mastering-concurrency-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343052 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11327_0.png" alt="Mastering Concurrency in Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/application-development/mastering-concurrency-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343052 "><img src="https://www.packtpub.com/sites/default/files/B11327.png" alt="Mastering Concurrency in Python" height="256px" align="right"></a>
 
 This is the code repository for [Mastering Concurrency in Python](https://www.packtpub.com/application-development/mastering-concurrency-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343052), published by Packt.
 
