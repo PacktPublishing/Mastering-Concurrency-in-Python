@@ -45,7 +45,7 @@ if __name__ == '__main__':
     start = time.time()
     r1 = pool.apply_async(countdown, args=(COUNT//2,))
     r2 = pool.apply_async(countdown, args=(COUNT//2,))
-    r1.wait() # it should be wait to measure its completion time. 
+    r1.wait() # it should wait to measure its completion time. 
     r2.wait() 
     pool.close()
     pool.join()
