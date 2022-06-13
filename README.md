@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B11327?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Mastering Concurrency in Python
 
 <a href="https://www.packtpub.com/application-development/mastering-concurrency-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343052 "><img src="https://www.packtpub.com/sites/default/files/B11327.png" alt="Mastering Concurrency in Python" height="256px" align="right"></a>
