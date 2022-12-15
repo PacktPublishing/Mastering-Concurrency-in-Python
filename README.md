@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789343052)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Mastering Concurrency in Python
 
 <a href="https://www.packtpub.com/application-development/mastering-concurrency-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343052 "><img src="https://www.packtpub.com/sites/default/files/B11327.png" alt="Mastering Concurrency in Python" height="256px" align="right"></a>
